@@ -6,6 +6,7 @@ namespace Shopping
     {
         static void Main(string[] args)
         {
+            
             int costForCrystal = 12;
             int goldOfPlayer;
             int purchasedCrystals;
